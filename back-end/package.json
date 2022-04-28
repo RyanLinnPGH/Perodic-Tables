@@ -1,11 +1,11 @@
 {
   "name": "starter-restaurant-reservation-back-end",
   "version": "1.0.0",
-  "description": "Starter code for restaurant reservation backend",
+  "description": "Final Capstone for Thinkful Engineering Immersion",
   "main": "src/server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thinkful-Ed/starter-restaurant-reservation",
+    "url": "https://github.com/RyanLinnPGH/Perodic-Tables",
     "directory": "/back-end"
   },
   "scripts": {
@@ -25,7 +25,7 @@
     "test:start:run": "run-s test:drop-database start "
   },
   "keywords": [],
-  "author": "",
+  "author": "Ryan Linn",
   "license": "UNLICENSED",
   "dependencies": {
     "cors": "^2.8.5",
